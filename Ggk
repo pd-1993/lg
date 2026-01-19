@@ -1,1 +1,7 @@
-jsksks
+#EXTM3U
+
+#EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" group-title="Sports",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 13; Mobile; rv:139.0) Gecko/139.0 Firefox/139.0
+#EXTVLCOPT:http-referrer=https://trial.mydomstream.org/trial?u=nbatv&sport_uuid=7281de84&channels_count=1&ref=league%3DNBA
+#EXTVLCOPT:http-header=Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJjZG4tYXV0aCIsImF1ZCI6ImNkbi1rZXlzIiwic3ViIjoiZ3Vlc3RfOTIxMTk2NTUyOSIsImNpZCI6Im5iYXR2IiwidHciOjE3Njg4NDI1MTUsImlwIjoiMTEyLjIwNS4xNDcuMTgxIiwibmJmIjoxNzY4ODQyNTEwLCJleHAiOjE3Njg4NDI2MDUsInVhbSI6IjIwZDBlNDRiNDVmODY3ZTU2OThlYmRiM2QxYTBlODJiIiwianRpIjoiYjEzZDNhMzMxZTE4NzJlYSIsInR5cGUiOiJwbGF5bGlzdCJ9.mmT6F_MNnywE51vMsp2JXJWNcHITAW2JERDQWLJRKsA
+https://trial.mydomstream.org/live/nbatv/playlist.m3u8
